@@ -1,5 +1,1 @@
-[
-  { "name": "1-cover.jpg", "query": "?shot=cover&photo=pier&caption=Sunset%20Heist", "w": 1080, "h": 1080 },
-  { "name": "2-editor.jpg", "query": "?shot=editor&photo=boulevard&caption=Boulevard%20Queen", "w": 1280, "h": 720 },
-  { "name": "3-cover.jpg", "query": "?shot=cover&photo=boulevard&caption=Boulevard%20Queen", "w": 1080, "h": 1080 }
-]
+[{"h":720,"name":"1-cover.jpg","query":"?shot=cover&photo=boulevard&photo2=pier&caption=Neon%20Coast&sub=Vice%20City%20nights&layout=hero&grade=sunset&size=1920x1080&views=1,0,0.35;1,0,0.9;1,0,0.95;1,0,0.9","w":1280},{"h":1200,"name":"2-editor.jpg","query":"?shot=editor&photo=boulevard&photo2=pier&caption=Neon%20Coast&sub=Vice%20City%20nights&layout=hero&grade=sunset&size=1080x1350&views=1,0,0.8;1,0,0;1,0,0;1,0,0","w":1280},{"h":1280,"name":"3-cover.jpg","query":"?shot=cover&photo=pier&photo2=boulevard&caption=Pier%20Pressure&sub=One%20last%20cast&layout=triptych&grade=neon&size=1080x1350&views=1,0,0.9;1,0,0.95;1,0,-1","w":1024},{"h":1080,"name":"4-cover.jpg","query":"?shot=cover&photo=boulevard&photo2=pier&caption=Golden%20Hour&sub=Chasing%20the%20sunset&layout=grid&grade=gold&size=1080x1080&views=1,0,0.7;1,0,0;1,0,0.7;1,0,0","w":1080}]
